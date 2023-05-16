@@ -11,3 +11,4 @@ myself Arun K Nair
 | 5  |May 13     |Meltdown Migration |
 | 6  |May 14     |Black Jack   |
 | 7  |May 15     |Armstrong Numbers|
+| 8  |May 16     |Little Sister's Vocabulary|
