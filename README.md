@@ -12,3 +12,4 @@ myself Arun K Nair
 | 6  |May 14     |Black Jack   |
 | 7  |May 15     |Armstrong Numbers|
 | 8  |May 16     |Little Sister's Vocabulary|
+| 9  |May 17     |Card Games|
