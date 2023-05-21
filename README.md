@@ -15,3 +15,4 @@ myself Arun K Nair
 | 9  |May 17     |Card Games|
 | 10 |May 18     |Raindrops|
 | 11 |May 19     |Difference of Squares|
+| 12 |May 20     | Resistor Color |
