@@ -16,3 +16,4 @@ myself Arun K Nair
 | 10 |May 18     |Raindrops|
 | 11 |May 19     |Difference of Squares|
 | 12 |May 20     | Resistor Color |
+| 13 |May 21     | Isogram|
