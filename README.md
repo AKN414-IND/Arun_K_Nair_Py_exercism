@@ -17,3 +17,6 @@ myself Arun K Nair
 | 11 |May 19     |Difference of Squares|
 | 12 |May 20     | Resistor Color |
 | 13 |May 21     | Isogram|
+| 14 |May 22     |Bob|
+| 15 |May 23     |Pangram|
+| 16 |May 24     |Chaitana's Colossal Coaster|
