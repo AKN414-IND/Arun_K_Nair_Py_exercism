@@ -22,3 +22,7 @@ myself Arun K Nair
 | 16 |May 24|Chaitana's Colossal Coaster|
 | 17 |May 25|Rotational Cipher|
 | 18 |May 26|Little Sister's Essay|
+| 19 |May 27|Diffie-Hellman|
+| 20 |May 28|Secret Handshake|
+| 21 |May 29|Pascals Triangle|
+| 22 |May 30|Sublist|
